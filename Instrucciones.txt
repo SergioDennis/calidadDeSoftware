@@ -1,0 +1,6 @@
+Clonar el proyecto
+Crear un branch con el siguiente formato: nombreSoftware
+Crear un .txt ingresando los datos
+	Nombre Completo: 
+	Proyecto: 
+Hacer push del nuevo branch 
